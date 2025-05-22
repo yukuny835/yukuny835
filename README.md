@@ -190,7 +190,7 @@ counting of visitors to this page in this section started from June 12, 2022
 </p>
 
 ---
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
+  *If you like my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
 ---
 Would you ike to meet me?
 
